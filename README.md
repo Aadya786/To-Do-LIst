@@ -1,4 +1,4 @@
-# 📝 Simple To-Do List
+# Simple To-Do List
 
 A clean, lightweight, and responsive To-Do List app built with basic web tech: HTML5, CSS3, and JavaScript. It lets you add tasks, check them off when you're done, and delete them instantly. 
 
@@ -9,7 +9,7 @@ A clean, lightweight, and responsive To-Do List app built with basic web tech: H
 * **Enter Key & Click Support:** Add a task by clicking the "Add" button or just hitting `Enter` on your keyboard.
 * **Interactive Completion:** Click the check icon to turn it green so you know it's completed.
 * **Instant Delete:** Click the trash icon to completely remove a task from the list.
-* **Clean Code:** No messy frameworks or external libraries to install—just pure vanilla JavaScript.
+* **Clean Code:** No messy frameworks or external libraries to install, just pure HTML, CSS, and JavaScript
 
 ---
 
