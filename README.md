@@ -1,2 +1,4 @@
 # To-Do-LIst
-Responsive To-Do List using HTML, CSS, and JavaScript
+A clean, minimalist, and responsive To-Do List web application that helps users keep track of their daily tasks. 
+
+Users can add new tasks, mark them as completed with a visual check icon, or delete items instantly.
